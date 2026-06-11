@@ -99,6 +99,6 @@ This project demonstrates capabilities relevant to:
 
 ## Maintainer
 
-**Wilfred K.**
+**Vinic.N**
 
 AI Trainer • Critical Care Nursing Professional • Healthcare AI Evaluator
